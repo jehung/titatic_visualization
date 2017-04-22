@@ -1,0 +1,892 @@
+Outcome,Passenger Class,Sex,Age,Embarked
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Age < 12,Southampton
+Survived,Class 1,Female,Age > 50,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age > 50,Southampton
+Perished,Class 3,Male,Age < 12,Queenstown
+Survived,Class 2,Male,Unknown,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Cherbourg
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Queenstown
+Survived,Class 1,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Survived,Class 1,Female,Unknown,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 2,Female,Age < 12,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Queenstown
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Survived,Class 1,Male,Unknown,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 1,Male,Unknown,Cherbourg
+Survived,Class 3,Male,Unknown,Cherbourg
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age > 50,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 2,Male,Age 30 - 49,Cherbourg
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Unknown,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Unknown,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Survived,Class 3,Male,Age < 12,Southampton
+Survived,Class 1,Female,Unknown,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age < 12,Queenstown
+Survived,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Female,Age > 50,Cherbourg
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 2,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age < 12,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Survived,Class 3,Female,Age < 12,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 1,Female,Age > 50,Cherbourg
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Queenstown
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Survived,Class 3,Female,Age < 12,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 1,Male,Age 30 - 49,Queenstown
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Unknown,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 2,Female,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age > 50,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Survived,Class 1,Female,Age > 50,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 2,Male,Unknown,Southampton
+Perished,Class 3,Male,Age < 12,Queenstown
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age > 50,Queenstown
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Queenstown
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 2,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 1,Female,Age < 12,Southampton
+Survived,Class 1,Male,Unknown,Southampton
+Survived,Class 1,Female,Age > 50,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Survived,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Unknown,Queenstown
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Male,Age < 12,Southampton
+Survived,Class 1,Female,Unknown,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 2,Male,Age 30 - 49,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Queenstown
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age > 50,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Southampton
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age > 50,Cherbourg
+Survived,Class 3,Female,Unknown,Cherbourg
+Survived,Class 3,Female,Unknown,Queenstown
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age < 12,Southampton
+Survived,Class 1,Female,Unknown,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 3,Female,Age < 12,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Female,Age 30 - 49,Queenstown
+Perished,Class 2,Male,Unknown,Southampton
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Queenstown
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Unknown,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Male,Age < 12,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age < 12,Cherbourg
+Survived,Class 1,Male,Age > 50,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 1,Male,Age > 50,Southampton
+Survived,Class 1,Female,Unknown,Southampton
+Survived,Class 2,Female,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Unknown,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Female,Age < 12,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 2,Male,Unknown,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Survived,Class 3,Female,Age > 50,Southampton
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Unknown,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 1,Female,Age > 50,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Queenstown
+Perished,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Cherbourg
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 12 - 29,Queenstown
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Queenstown
+Survived,Class 2,Female,Age > 50,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Unknown,Cherbourg
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Survived,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 1,Male,Age > 50,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 2,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 1,Male,Unknown,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Male,Age > 50,Southampton
+Survived,Class 1,Female,Age > 50,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Cherbourg
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age > 50,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 2,Male,Age > 50,Queenstown
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Female,Age < 12,Southampton
+Survived,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Female,Age < 12,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Male,Age > 50,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 3,Female,Age 12 - 29,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Female,Age 30 - 49,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age > 50,Cherbourg
+Survived,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Unknown,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Survived,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Female,Unknown,Queenstown
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 2,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age < 12,Cherbourg
+Survived,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Cherbourg
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Queenstown
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Survived,Class 3,Male,Unknown,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 1,Male,Unknown,Southampton
+Survived,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age > 50,Southampton
+Survived,Class 1,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Unknown,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Cherbourg
+Perished,Class 2,Male,Unknown,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Male,Unknown,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age > 50,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Queenstown
+Survived,Class 2,Female,Age < 12,Southampton
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 2,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 3,Male,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age > 50,Southampton
+Perished,Class 1,Male,Unknown,Cherbourg
+Perished,Class 3,Female,Age 30 - 49,Queenstown
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Female,Age > 50,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Survived,Class 2,Female,Age > 50,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Queenstown
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 1,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 1,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Female,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age < 12,Southampton
+Survived,Class 3,Male,Age < 12,Cherbourg
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age < 12,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 1,Male,Unknown,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Survived,Class 1,Female,Age > 50,Southampton
+Survived,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Queenstown
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 2,Male,Age < 12,Cherbourg
+Survived,Class 3,Male,Unknown,Queenstown
+Survived,Class 1,Female,Age > 50,Southampton
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Survived,Class 2,Male,Age < 12,Southampton
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 1,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Perished,Class 3,Male,Age 30 - 49,Cherbourg
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Unknown,Cherbourg
+Perished,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age > 50,Southampton
+Perished,Class 3,Female,Age < 12,Cherbourg
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 3,Female,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Survived,Class 1,Male,Age > 50,Southampton
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Unknown,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 2,Female,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 3,Male,Age < 12,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 30 - 49,Southampton
+Perished,Class 1,Male,Age 30 - 49,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Survived,Class 2,Female,Age 12 - 29,Cherbourg
+Survived,Class 3,Female,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Unknown,Southampton
+Survived,Class 1,Female,Age > 50,Cherbourg
+Survived,Class 2,Female,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 30 - 49,Southampton
+Perished,Class 3,Female,Age 12 - 29,Southampton
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Perished,Class 3,Male,Age 12 - 29,Southampton
+Perished,Class 3,Female,Age 30 - 49,Queenstown
+Perished,Class 2,Male,Age 12 - 29,Southampton
+Survived,Class 1,Female,Age 12 - 29,Southampton
+Perished,Class 3,Female,Unknown,Southampton
+Survived,Class 1,Male,Age 12 - 29,Cherbourg
+Perished,Class 3,Male,Age 30 - 49,Queenstown
