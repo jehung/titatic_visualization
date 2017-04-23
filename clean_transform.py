@@ -1,12 +1,13 @@
 import csv
 
 file = 'titanic_data.csv'
+file1 = 'titanic.csv'
+dir = 'C:\\Users\\Jenny\\Documents\\Mathfreak_Data\\School\\Data_Analysis_ND\\Project6\\'
 
-def read_data(file):
-    dir = 'C:\\Users\\Jenny\\Documents\\Mathfreak_Data\\School\\Data_Analysis_ND\\Project6\\'
-    
-    with open('titanic_final.csv', 'wb') as f_out:
-        out_colnames = ['Outcome', 'Passenger Class', 'Sex', 'Age', 'Embarked']
+
+def process_data(file):
+    with open('titanic.csv', 'wb') as f_out:
+        out_colnames = ['Count', 'Outcome', 'Passenger Class', 'Sex', 'Age', 'Embarked']
 
         writer = csv.DictWriter(f_out, fieldnames = out_colnames)
         writer.writeheader()
@@ -16,6 +17,9 @@ def read_data(file):
         
             for row in reader:
                 new_point = {}
+
+                new_point['Count'] = 1
+
                 if row['Survived'] == '1':
                     new_point['Outcome'] = 'Survived'
                 else:
@@ -56,4 +60,33 @@ def read_data(file):
                     
                 writer.writerow(new_point)
         
-read_data(file)
+process_data(file)
+
+
+def process_combined_data(file1):
+    with open('titanic_compound.csv', 'wb') as f_out:
+        out_colnames = ['Count', 'Outcome', 'Compound Factor']
+
+        writer = csv.DictWriter(f_out, fieldnames=out_colnames)
+        writer.writeheader()
+
+        with open(dir + file1, 'r') as f_in:
+            reader = csv.DictReader(f_in)
+
+
+            for row in reader:
+                new_point = {}
+
+
+
+
+                new_point['Outcome'] = row['Outcome']
+
+                new_point['Compound Factor'] = row['Passenger Class']+','+row['Sex']+','+row['Age']
+
+                new_point['Count'] = 1
+
+                writer.writerow(new_point)
+
+
+process_combined_data(file1)
