@@ -42,13 +42,13 @@ def process_data(file):
                 if row['Age'] == '':
                     new_point['Age'] = 'Unknown'
                 elif float(row['Age']) < 12:
-                    new_point['Age'] = 'Age < 12'
+                    new_point['Age'] = 'Child'
                 elif float(row['Age']) >= 12 and float(row['Age']) < 30:
-                    new_point['Age'] = 'Age 12 - 29'
+                    new_point['Age'] = 'Youth'
                 elif float(row['Age']) >= 30 and float(row['Age']) < 50:
-                    new_point['Age'] = 'Age 30 - 49'
+                    new_point['Age'] = 'Adult'
                 elif float(row['Age']) >= 50:
-                    new_point['Age'] = 'Age > 50'
+                    new_point['Age'] = 'Senior'
 
                     
                 if row['Embarked'] == 'C':
@@ -77,13 +77,9 @@ def process_combined_data(file1):
             for row in reader:
                 new_point = {}
 
-
-
-
                 new_point['Outcome'] = row['Outcome']
 
-                new_point['Compound Factor'] = row['Passenger Class']+','+row['Sex']+','+row['Age']
-
+                new_point['Compound Factor'] = row['Passenger Class']+','+row['Age']+','+row['Sex']
                 new_point['Count'] = 1
 
                 writer.writerow(new_point)
