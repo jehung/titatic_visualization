@@ -101,7 +101,7 @@
 		  		myChart.setBounds(60,30,510,305);
 		  		//X-Axis
 		  		var x = myChart.addCategoryAxis('x', 'Age');
-		        x.addOrderRule(['Age < 12', 'Age 12 - 29', 'Age 30 - 49', 'Age > 50', 'Unknown']);
+		        x.addOrderRule(['Child', 'Youth', 'Adult', 'Senior', 'Unknown']);
 		        //Y-Axis
 		  		var y = myChart.addMeasureAxis('y', 'Count');
 
@@ -292,16 +292,10 @@
 		 		d3.csv('titanic_compound.csv', function(data) {
 		   		var myChart = new dimple.chart(svg5,data);
 		   		//Boundaries
-		  		myChart.setBounds(60,30,510,305);
+		  		myChart.setBounds(60,30,510,200);
 		  		//X-Axis
 		  		var x = myChart.addCategoryAxis('x', 'Compound Factor');
-                x.addOrderRule(['Class 3,Female,Age < 12', 'Class 3,Male,Age < 12', 'Class 3,Male,Age 12 - 29', 'Class 3,Male,Age 30 - 49', 
-                    'Class 3,Male,Age < 50', 'Class 3,Male,Unknown', 
-                    'Class 2,Female, Age < 12', 'Class 2,Male,Age < 12', 'Class 2,Male,Age 12 - 29', 'Class 2,Male,Age 30 - 49', 
-                    'Class 2,Male,Age < 50', 'Class 2,Male,Unknown',
-                    'Class 1,Female,Age < 12', 'Class 1,Male,Age < 12', 'Class 1,Male,Age 12 - 29', 'Class 1,Male,Age 30 - 49', 
-                    'Class 1,Male, Age < 50', 'Class 1,Male,Unknown'
-          ]);
+                
 		       	//Y-Axis
 		  		var y = myChart.addMeasureAxis('y', 'Count');
 		  		//Status: Survived or Perished
@@ -342,8 +336,16 @@
 		            // Make it a little transparent to tone down the black
 		            .style("opacity", 0.6)
 		            // Format the number
-		            .text(data.yValue)
-
+		            .text(data.yValue)          
+                    d3.selectAll(".xaxis text")  // select all the text elements for the xaxis
+                  .attr("transform", function(d) {
+                     return "translate(" + this.getBBox().height*-2 + "," + this.getBBox().height + ")rotate(-45)";
+                 });
+                
+                
+                
+                
+                
 		        }
 		      };
 
@@ -363,28 +365,12 @@
 		 		d3.csv('titanic_compound.csv', function(data) {
 		   		var myChart = new dimple.chart(svg6,data);
 		   		//Boundaries
-		  		myChart.setBounds(60,30,510,305);
+		  		myChart.setBounds(60,30,510,200);
 		  		//X-Axis
 		  		var x = myChart.addCategoryAxis('x', 'Compound Factor');
-                x.addOrderRule(['Class 3,Female,Age < 12', 'Class 3,Male,Age < 12', 'Class 3,Male,Age 12 - 29', 'Class 3,Male,Age 30 - 49', 
-                    'Class 3,Male,Age < 50', 'Class 3,Male,Unknown', 
-                    'Class 2,Female, Age < 12', 'Class 2,Male,Age < 12', 'Class 2,Male,Age 12 - 29', 'Class 2,Male,Age 30 - 49', 
-                    'Class 2,Male,Age < 50', 'Class 2,Male,Unknown',
-                    'Class 1,Female,Age < 12', 'Class 1,Male,Age < 12', 'Class 1,Male,Age 12 - 29', 'Class 1,Male,Age 30 - 49', 
-                    'Class 1,Male, Age < 50', 'Class 1,Male,Unknown'
-          ]);
 		       	//Y-Axis
 		  		//var y = myChart.addMeasureAxis('y', 'Count');
                 var y = myChart.addPctAxis('y', 'Count');
-                var margin = {top: 20, right: 231, bottom: 140, left: 40},
-                width = 1000 - margin.left - margin.right,
-                height = 800 - margin.top - margin.bottom;
-                
-                var yscale = d3.scale.linear().rangeRound([height, 0]);
-
-                var yaxis = d3.svg.axis().scale(yscale).orient("left").tickFormat(d3.format(".0%")); // **
-                
-                
                 
 		  		//Status: Survived or Perished
 		        var s = myChart.addSeries("Outcome", dimple.plot.bar);
