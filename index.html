@@ -27,7 +27,7 @@
 	<h1>Analysis of Titanic Survivors</h1>
 
 	<div id='chartContainer'>
-		<h2>Survivors per Passenger Class</h2>
+		<h2>Survivor Counts by Passenger Class</h2>
 
  	<script type="text/javascript">
 	 	var svg = dimple.newSvg('#chartContainer', 600,400);
@@ -40,8 +40,7 @@
 	  		//X-Axis
 	  		var x = myChart.addCategoryAxis('x', 'Passenger Class');
 	  		//Y-Axis in absolute Values
-	  		//var y = myChart.addMeasureAxis('y', 'Count');
-            var y = myChart.addPctAxis('y', 'Count');
+	  		var y = myChart.addMeasureAxis('y', 'Count');
 	  		//Status: Survived or Perished
 	        var s = myChart.addSeries("Outcome", dimple.plot.bar);
 	        myChart.addLegend(60, 10, 510, 20, "right");
@@ -89,8 +88,9 @@
 			 });
 		</script>
   	</div>
+    
   	<div id='chartContainer2'>
-		<h2>Survivors by Age</h2>
+		<h2>Survivor Counts by Age</h2>
 
  		<script type="text/javascript">
 		 	var svg2 = dimple.newSvg('#chartContainer2', 600,400);
@@ -154,8 +154,9 @@
 				 });
 		</script>
   	</div>
-  	<div id='chartContainer3'>
-		<h2>Survivors by Sex</h2>
+    
+          	<div id='chartContainer3'>
+		<h2>Survivor Counts by Sex</h2>
 
  		<script type="text/javascript">
 		 	var svg3 = dimple.newSvg('#chartContainer3', 600,400);
@@ -221,7 +222,7 @@
   	</div>
     
   	<div id='chartContainer4'>
-		<h2>Survivors by Embarked</h2>
+		<h2>Survivor Counts by Embarked</h2>
 
 	 	<script type="text/javascript">
 		 	var svg4 = dimple.newSvg('#chartContainer4', 600,400);
@@ -283,8 +284,9 @@
 		</script>
         
   	</div>
+  	</div>
         <div id='chartContainer5'>
-		<h2>Survivors Counts by Compound Factor</h2>
+		<h2>Survivor Counts by Passenger Class, Sex and Age </h2>
 
 	 	<script type="text/javascript">
 		 	var svg5 = dimple.newSvg('#chartContainer5', 600,400);
@@ -357,7 +359,7 @@
     
     </div>
         <div id='chartContainer6'>
-		<h2>Survivors Percentage by Compound Factor</h2>
+		<h2>Survivor Percentage by Passenger Class, Sex and Age</h2>
 
 	 	<script type="text/javascript">
 		 	var svg6 = dimple.newSvg('#chartContainer6', 600,400);
@@ -368,6 +370,15 @@
 		  		myChart.setBounds(60,30,510,200);
 		  		//X-Axis
 		  		var x = myChart.addCategoryAxis('x', 'Compound Factor');
+                x.addOrderRule(['Class 1,Adult,Female','Class 2,Child,Male','Class 1,Unknown,Female','Class 2,Child,Female',
+                                'Class 1,Child,Male','Class 2,Unknown,Female','Class 3,Senior,Female','Class 1,Youth,Female',
+                                'Class 1,Senior,Female','Class 2,Adult,Female','Class 2,Youth,Female','Class 2,Senior,Female',
+                                'Class 3,Unknown,Female','Class 3,Youth,Female','Class 3,Child,Female','Class 1,Youth,Male',
+                                'Class 1,Adult,Male','Class 3,Child,Male','Class 3,Adult,Female','Class 1,Unknown,Male',
+                                'Class 2,Unknown,Male','Class 1,Senior,Male','Class 3,Youth,Male','Class 3,Adult,Male',
+                                'Class 2,Adult,Male','Class 3,Unknown,Male','Class 2,Senior,Male','Class 2,Youth,Male',
+                                'Class 1,Child,Female','Class 3,Senior,Male'])
+
 		       	//Y-Axis
 		  		//var y = myChart.addMeasureAxis('y', 'Count');
                 var y = myChart.addPctAxis('y', 'Count');
